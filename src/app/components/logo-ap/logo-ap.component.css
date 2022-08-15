@@ -1,0 +1,26 @@
+#logo-ap{
+    width: 170px;
+}
+img{
+    width: 45px;
+    padding-right: 8px ;
+    margin-top: 12px;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    margin-top: 13px;
+    margin-right: 0.5em;
+    border-width: medium;
+    color: black;
+    border-color: black;
+    text-size-adjust: 3px;
+    transition:all .1s ease-in-out;
+}
+app-social{
+    float: center;
+    margin-top: 25px;
+}
