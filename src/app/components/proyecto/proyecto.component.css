@@ -2,15 +2,17 @@
     padding: 20px;
     background-color: white;
 }
-.contenedor{
+.container{
     width: auto;
 }
 .parte1, .parte2{
     display: inline-block;
     text-align: justify;
+    margin-top: 50px;
+    right: 30px;
 }
 .img-proyecto{
     box-shadow: 10px 10px 50px black;
-    box-shadow: ejeX ejeY difumasion color  ;
-
+    box-shadow: ejeX ejeY difumasion color;
+    border-style: solid;
 }

@@ -1,20 +1,24 @@
+#fotoperfil{
+    width: 1700px;
+    height: 220px;
+}
 .row{
     padding: 20px;
     
 }
 div{
-    background-color: aliceblue;
+    background-color: #ffffff;
     text-align: center;
 }
 /* estilo foto perfil*/
-@media (min-width: 574px){
+@media (min-width: 576px){
     #fotoperfil{
         position: absolute;
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 650px;       
+        top: 485px;       
     }
 }
 @media (max-width: 575px){
@@ -23,8 +27,8 @@ div{
         width: 30%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 34%;
-        top: 600px;       
+        left: 33%;
+        top: 450px;       
     }
 }
 /*etiqueta nombre*/

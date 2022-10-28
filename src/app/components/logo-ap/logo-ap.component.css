@@ -1,5 +1,5 @@
 #logo-ap{
-    width: 170px;
+    width: 120px;
 }
 img{
     width: 45px;
@@ -10,6 +10,7 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: -5px;
 }
 .btn{
     margin-top: 13px;
@@ -23,4 +24,7 @@ img{
 app-social{
     float: center;
     margin-top: 25px;
+}
+.redes{
+    margin-top: -10px;
 }
